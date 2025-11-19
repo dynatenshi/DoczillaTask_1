@@ -1,0 +1,1 @@
+java -jar ./target/LiquidSorter-1.0.jar
